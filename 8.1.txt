@@ -1,0 +1,4 @@
+1. Learned basic mechanisms of attention and its affect on the improvement of Seq2Seq models
+2. Studied Pytorch basics and transit from tensorflow to pytorch
+3. Studied a Pytorch toturial on Seq2Seq model (https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+4. Finished data cleaning
