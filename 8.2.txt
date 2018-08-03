@@ -1,0 +1,5 @@
+1. 早上继续学习了pytorch的seq2seq模型并搞懂decoder的Input
+
+2. 下午开了组会后决定放弃Pyporch转战tensorflow
+
+3. 晚上和小组讨论了16个问题，发现还有很多知识漏洞，但进一步搞懂了lstmn和gru的区别和内部构造
