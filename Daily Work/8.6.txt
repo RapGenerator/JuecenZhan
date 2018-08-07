@@ -1,0 +1,5 @@
+1. 中午读了skip-thought paper并且和组员讨论运用在我们seq2seq模型的可能性
+2. 下午开了组会，进一步明确：(a).如何让句子之间更通顺（重新处理一下输入数据的语序，hook和rap分开处理） （2).考虑加入skip-thought paper中提到的一个encoder两个decoder模型
+3. 和组员讨论并解决了动态字典的问题。解决方法是先把word_dict存入本地directory.再读取静态字典。我们认识到jieba分词的不稳定性
+4. 进一步完善了代码的注释并修复了一些小Bug
+
