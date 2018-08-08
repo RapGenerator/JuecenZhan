@@ -1,0 +1,8 @@
+1. Read Three papers:
+	Topic to essay
+	Trimming skip-thought vectors
+	Chinese poetry generation
+
+2. Look for open-source skip-thought implementation of seq2seq in Tensorflow
+
+3. Attended group meeting to discuss tasks for coding team.
